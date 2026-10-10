@@ -1,0 +1,6 @@
+{
+  "name": "MineGuard - Smart Coal Mine Pollution Alert System",
+  "description": "Environmental monitoring dashboard visualizing simulated PM2.5 and PM10 readings, zone alerts, real-time trend charts, and actionable dust-control guidance across mine zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
